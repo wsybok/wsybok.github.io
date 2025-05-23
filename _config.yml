@@ -31,8 +31,34 @@ twitter_username: ai2fun
 github_username:  wsybok
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 repository: "wsybok/wsybok.github.io"
-logo: "/assets/images/88x88.png"
+logo: "/assets/images/logo.jpg"
+social:
+  type:  Person
+  name:  # If the user or organization name differs from the site's name
+  links:
+    - "https://twitter.com/ai2fun"
 
+author:
+  name: "BigK"
+  avatar: "/assets/images/bio.jpg"
+  bio: "I am an **amazing** person." # Note: Markdown is allowed
+  location: "Somewhere"
+  links:
+    - label: "X"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ai2fun"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/wsybok"
+
+masthead_title: "AI2FUN"
+enable_copy_code_button: true
+search: true
+lunr:
+  search_within_pages: true
+twitter:
+  username: "ai2fun"
+og_image: /assets/images/logo.jpg
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 
