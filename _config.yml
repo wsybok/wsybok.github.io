@@ -30,6 +30,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ai2fun
 github_username:  wsybok
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+repository: "wsybok/wsybok.github.io"
+logo: "/assets/images/88x88.png"
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
